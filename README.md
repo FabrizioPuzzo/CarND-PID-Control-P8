@@ -3,7 +3,7 @@
 
 ---
 
-This repo contains my solution to the Finding Lane Lines Project for Udacity's Self-Driving Car Engineer Nanodegree Program.
+This repo contains my solution to the PID-Control Project for Udacity's Self-Driving Car Engineer Nanodegree Program.
 
 ---
 
