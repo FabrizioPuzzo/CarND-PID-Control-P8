@@ -1,5 +1,12 @@
 # CarND-PID-Control-P4
-Udacity Self-Driving Car Nanodegree - PID Control project
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+---
+
+This repo contains my solution to the Finding Lane Lines Project for Udacity's Self-Driving Car Engineer Nanodegree Program.
+
+---
+
 
 # Overview
 
