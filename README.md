@@ -63,9 +63,7 @@ The project could be executed directly using `./build/pid` or if there are some 
 Listening to port 4567
 ```
 
-Now the PID controller is running and listening on port 4567 for messages from the simulator. Next step is to open Udacity's simulator.Using the right arrow, you need to go to the Project 4: PID Controller project and click the "Select" button:
-
-![Simulator PID controller project](images/simulator_PID_Controller.png)
+Now the PID controller is running and listening on port 4567 for messages from the simulator. Next step is to open Udacity's simulator.Using the right arrow, you need to go to the Project 4: PID Controller project and click the "Select" button.
 
 # Implementation
 
